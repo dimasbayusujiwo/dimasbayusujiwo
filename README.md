@@ -37,7 +37,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/dimasbayusujiwo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dimasbayusujiwo" /></a>
   <a href="https://ko-fi.com/dimasbayusujiwo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dimasbayusujiwo" /></a>
-</p><br><br><br><br>
+</p><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasbayusujiwo&show_icons=true&locale=en&layout=compact" alt="dimasbayusujiwo" /></p><br><br>
 
