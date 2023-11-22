@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimas</h1>
 <h3 align="center">A student from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tj&label=Profile%20views&color=0e75b6&style=flat" alt="dimasbayusujiwo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasbayusujiwo&label=Profile%20views&color=0e75b6&style=flat" alt="dimasbayusujiwo" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tj" alt="dimasbayusujiwo" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="dimasbayusujiwo" /></a> </p>
 
 <p align="left"> <img src="https://img.shields.io/twitter/follow/dimasbayusjw?logo=twitter&style=for-the-badge" alt="dimasbayusjw" /></a> </p>
 
