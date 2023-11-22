@@ -14,8 +14,6 @@
 - 📝 I regularly write articles on [https://blog.techbin.fun](https://blog.techbin.fun)
 
 - 📫 How to reach me **dimas@techbin.fun**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
