@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Fresh graduate SMK (Vocational High School) ☾
+#### Fresh Graduate from Vocational High School Majoring Software Engineering
 
 - ⚙️ I use: `.php`, `.js`, `.html`, `.css`, `.py`, `.cpp`, `.lua`
 - 🌍 I'm mostly active within the **Cyber Security Community**.
